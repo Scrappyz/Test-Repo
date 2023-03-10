@@ -1,4 +1,3 @@
 # Test
-This is sentence1.
-
-Hello
+This is sentence1. \
+This is sentence2.
