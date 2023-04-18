@@ -1,8 +1,18 @@
 gogo
+<<<<<<< HEAD
 gago
 ggkids
+=======
+ggkids
+potangina 
+gihgfa-inverse
+fidbvbid
+>>>>>>> parent of 1480a2d (bad commit)
 taena
 lsj
 vmid
 ooo
+<<<<<<< HEAD
 cool
+=======
+>>>>>>> parent of 1480a2d (bad commit)
