@@ -4,10 +4,13 @@ gago
 ggkids
 =======
 ggkids
+<<<<<<< HEAD
 potangina 
 gihgfa-inverse
 fidbvbid
 >>>>>>> parent of 1480a2d (bad commit)
+=======
+>>>>>>> parent of cc10259 (xl)
 taena
 lsj
 vmid
